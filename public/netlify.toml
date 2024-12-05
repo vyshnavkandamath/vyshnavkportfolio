@@ -1,4 +1,12 @@
+# Redirect everything except /resume/* to index.html
 [[redirects]]
 from="/*"
 to="/index.html"
+status=200
+force=true
+
+# Exclude /resume/ path from redirect rule
+[[redirects]]
+from="/resume/*"
+to="/resume/:splat"
 status=200
