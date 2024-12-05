@@ -12,21 +12,21 @@ export const EXPERIENCES = [
     year: "May 2024 - Aug 2024",
     role: "Software Engineer Intern",
     company: "Hughes Network Systems",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    description: "Automated enterprise service delivery orders using Robot Framework and Selenium, reducing manual entry time and increasing efficiency, while leveraging Llama3, GPT-4 Large Language Models (LLMs), Python, and LangChain to develop an AI model that accurately determines and selects appropriate work order templates using a Retrieval-Augmented Generation (RAG) model, and deployed ChromaDB to manage and query data, streamlining access to internal knowledge and enhancing template retrieval efficiency.",
     technologies: ["Python", "Robot Framework", "LangChain", "Google Cloud"],
   },
   {
     year: "May 2023 - Aug 2023",
     role: "Software Engineer Intern",
     company: "Hughes Network Systems",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
+    description: `Implemented API endpoints for CRUD functions, reducing manual data entry time, optimized configuration of 200+ satellite data sets with a Node.js and TypeScript tool, documented the tool with OpenAPI specification, and conducted Postman testing to ensure compatibility and reliability on both Windows and Linux platforms.`,
     technologies: ["TypeScript", "Node.js", "GitLab", "REST"],
   },
   {
     year: "May 2022 - Aug 2022",
     role: "Software Engineer Intern",
     company: "Mindgrasp.ai",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
+    description: `Built a free trial program routing new users to payment pages with Stripe API, developed the backend using Flask for user authentication, integrated AJAX and JavaScript for frontend API calls, managed a database of 75,000+ users with Google Firebase & REST APIs, and collaborated with an agile team of 5 to accelerate product development, resulting in a 10% increase in monthly active users.`,
     technologies: ["Python", "Flask", "JavaScript", "Google Firebase", "AJAX", "Agile"],
   }
   // {
@@ -43,7 +43,7 @@ export const PROJECTS = [
     title: "Health and Fitness Android App",
     image: project1,
     description:
-      "A fully functional android mobile application that allows users to track fitness, calories, and progress goals",
+      "A fully functional android mobile application that allows users to personalize and track their fitness, calories, and progress goals",
     technologies: ["Kotlin", "Android Studio"],
   },
   {
